@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/IlanAMG/gatsby-blog-tutorial
+  repo: IlanAMG/gatsby-blog-tutorial
 
 media_folder: static/assets
 public_folder: assets
