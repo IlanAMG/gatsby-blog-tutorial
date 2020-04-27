@@ -28,6 +28,7 @@ const Bio = () => {
         <Meta
           avatar={
             <Avatar
+              alt={data.site.siteMetadata.author}
               size={64}
               src={data.site.siteMetadata.imageAuthor}
             />
